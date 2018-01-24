@@ -1,0 +1,27 @@
+{
+  "name": "the-internet-project",
+  "version": "1.0.0",
+  "description": "Automation test scripts for The-Internet powered by Elemental Selenium",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/velolesia/the-internet-project.git"
+  },
+  "keywords": [
+    "javascript",
+    "webdriverio",
+    "mocha",
+    "chai"
+  ],
+  "author": "Olesia V",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/velolesia/the-internet-project/issues"
+  },
+  "homepage": "https://github.com/velolesia/the-internet-project#readme",
+  "devDependencies": {
+    "babel-register": "^6.26.0",
+    "wdio-selenium-standalone-service": "~0.0.9",
+    "webdriverio": "^4.10.1"
+  },
+  "presets": ["env"]
+}

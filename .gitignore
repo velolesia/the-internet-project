@@ -1,1 +1,5 @@
 node_modules/
+errorShots/
+reporters/
+npm-debug.log
+geckodriver
